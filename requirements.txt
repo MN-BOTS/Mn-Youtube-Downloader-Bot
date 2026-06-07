@@ -1,0 +1,6 @@
+pyrotgfork
+tgcrypto
+spotdl
+python-dotenv
+aiohttp
+aiofiles
